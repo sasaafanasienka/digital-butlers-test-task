@@ -57,7 +57,7 @@
 @font-face {
     font-family: 'Bebas Neue';
     src: url('Bebas-Neue-Bold.ttf') format('truetype');
-    src: local('Bebas-Neue Bold'), local('BebasNeue Bold');
+    /* src: local('Bebas-Neue Bold'), local('BebasNeue Bold'); */
     font-weight: 700;
     font-style: bold;
 }
